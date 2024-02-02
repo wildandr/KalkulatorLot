@@ -9,7 +9,7 @@ pip_values = {
     "USD": 0.0001,
     "CHF": 0.000117,
     "CAD": 0.000074,
-    "JPY": 0.000069,
+    "JPY": 0.00014,
     "AUD": 0.000067,
     "GBP": 0.000127,
     # Add other currencies as needed
